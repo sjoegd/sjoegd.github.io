@@ -1,2 +1,4 @@
 # sjoegd.github.io
-Personal website
+Will be my personal website.
+
+Currently hosting: https://github.com/sjoegd/snake-game/
